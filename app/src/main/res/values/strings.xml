@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PortraitLandscapeApp</string>
+    <string name="change_picture">Change Picture</string>
+    <string name="picture_desc">Picture description</string>
+</resources>
